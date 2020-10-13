@@ -1,0 +1,13 @@
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\bin\Debug\netcoreapp3.1\PracticeThread.exe
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\bin\Debug\netcoreapp3.1\PracticeThread.deps.json
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\bin\Debug\netcoreapp3.1\PracticeThread.runtimeconfig.json
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\bin\Debug\netcoreapp3.1\PracticeThread.runtimeconfig.dev.json
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\bin\Debug\netcoreapp3.1\PracticeThread.dll
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\bin\Debug\netcoreapp3.1\PracticeThread.pdb
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\obj\Debug\netcoreapp3.1\PracticeThread.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\obj\Debug\netcoreapp3.1\PracticeThread.AssemblyInfoInputs.cache
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\obj\Debug\netcoreapp3.1\PracticeThread.AssemblyInfo.cs
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\obj\Debug\netcoreapp3.1\PracticeThread.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\obj\Debug\netcoreapp3.1\PracticeThread.dll
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\obj\Debug\netcoreapp3.1\PracticeThread.pdb
+C:\Users\Rolando\source\repos\PracticeThread\PracticeThread\obj\Debug\netcoreapp3.1\PracticeThread.genruntimeconfig.cache
